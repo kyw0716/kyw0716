@@ -1,7 +1,5 @@
 <div align="center">
 
-<br/>
-
 ## Hello, I`m Young Woo 👋
 
 <br/>
@@ -26,7 +24,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyw0716)
 ![kyw0716's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyw0716&show_icons=true&theme=dracula)
-
-![Solved.ac kyw0716](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyw0716)
 
 </div>

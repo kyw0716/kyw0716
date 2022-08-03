@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" style="border-radius: 5px;"/>
     <br/>
     📫 How to reach me: kyw0716@naver.com
-    <br/><br/>
+    <br/><br/>gd
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyw0716&show_icons=true&theme=dracula)

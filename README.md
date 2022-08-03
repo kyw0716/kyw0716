@@ -1,6 +1,9 @@
 <div align="center">
 
-## Hello, I`m Young Woo 👋
+### It's <u>Young</u> time (´∀`)b
+
+<img src="./image/가젤들썩들썩.gif" width="400" height="250"/>
+<!-- (출처: https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=furriky&logNo=220664635614) -->
 
 <br/>
 
@@ -53,5 +56,14 @@
 [https://coin-mining-simulator.netlify.app/](https://coin-mining-simulator.netlify.app/)
 
 <img src="./block-chain.png" width="500px">
+
+<br/>
+<br/>
+
+[https://kyw0716.github.io/Stopwatch-online/](https://kyw0716.github.io/Stopwatch-online/)
+
+<img src="./stopwatch1.png" width="400px" />
+<img src="./stopwatch2.png" width="400px" />
+<img src="./stopwatch3.png" width="400px" />
 
 </div>

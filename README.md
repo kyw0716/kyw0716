@@ -41,11 +41,13 @@
 <img src="./youngstagram4.png" width="400px" />
 
 <br/>
+<br/>
 
 [https://plan-today.netlify.app/](https://plan-today.netlify.app/)
 
 <img src="./plan-today.png" width="500px"/>
 
+<br/>
 <br/>
 
 [https://coin-mining-simulator.netlify.app/](https://coin-mining-simulator.netlify.app/)

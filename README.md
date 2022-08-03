@@ -12,20 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+
+<br/>
 
 ## Hello, I`m Young Woo 👋
 
 <br/>
-<div align="center">    
-    🌱 I’m currently studying 
-    <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white" style="border-radius: 5px;"/> 
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" style="border-radius: 5px;"/>
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" style="border-radius: 5px;"/>
-    <br/>
-    📫 How to reach me: kyw0716@naver.com
-    <br/><br/>
 
+🌱 I’m currently studying
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white" style="border-radius: 5px;"/>
+<br/>
+📫 How to reach me: kyw0716@naver.com
+<br/><br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyw0716&show_icons=true&theme=dracula)
+![kyw0716's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyw0716&show_icons=true&theme=dracula)
+
+![Solved.ac kyw0716](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyw0716)
+
+<img src="http://mazandi.herokuapp.com/api?handle=kyw0716&theme=warm"/>
 
 </div>
+
+<script src="https://gist.github.com/kyw0716/2bc6c37486d6e5f1a2ee05421f7910d6.js"></script>

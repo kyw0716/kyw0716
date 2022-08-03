@@ -2,6 +2,8 @@
 
 ### It's <u>Young</u> time (´∀`)b
 
+<br/>
+
 <img src="./가젤들썩들썩.gif" width="400" height="250"/>
 <!-- (출처: https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=furriky&logNo=220664635614) -->
 

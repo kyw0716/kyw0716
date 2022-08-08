@@ -48,7 +48,7 @@
 >
 > ##### 앞으로 구현 할 기능 : 이미지 수정, 좋아요 기능, 팔로우/팔로잉 등록, DM 기능, 유저 검색 기능
 
-##### 참고 : [youngstagram repository](https://github.com/kyw0716/Youngstagram)
+##### 참고 : [Youngstagram repository](https://github.com/kyw0716/Youngstagram)
 
 <img src="./youngstagram1.png" width="400px" />
 <img src="./youngstagram2.png" width="400px" />

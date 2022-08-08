@@ -38,8 +38,6 @@
 
 ### 💻 Deploy Sites
 
-<br/>
-
 ### [Youngstagram](https://youngstagram-demo.vercel.app)
 
 ##### 백엔드 개발자 없이 인스타그램 웹서비스를 구현해보기 위해 시작한 프로젝트 (진행중)

@@ -47,17 +47,47 @@
 
 ##### 참고 : [Youngstagram repository](https://github.com/kyw0716/Youngstagram)
 
-<img src="./youngstagram1.png" width="400px" />
-<img src="./youngstagram2.png" width="400px" />
-<img src="./youngstagram3.png" width="400px" />
-<img src="./youngstagram4.png" width="400px" />
-<img src="./youngstagram5.png" width="400px" />
-<img src="./youngstagram6.png" width="400px" />
-<img src="./youngstagram7.png" width="400px" />
-<img src="./youngstagram9.png" width="400px" />
-<img src="./youngstagram10.png" width="400px" />
 <br/>
-<img src="./youngstagram8.png" width="400px" />
+
+### - 로그인 기능
+
+<img src="./로그인%20기능.gif">
+
+<br/>
+
+### - 프로필 편집 기능
+
+<img src="./프로필%20편집%20기능.gif">
+
+<br/>
+
+### - 이미지 업로드 기능
+
+<img src="./이미지%20업로드%20기능.gif">
+
+<br/>
+
+### - 댓글 기능
+
+<img src="./댓글%20기능.gif">
+
+<br/>
+
+### - 팔로우 기능
+
+<img src="./팔로우%20기능.gif">
+
+<br/>
+
+### - DM 기능
+
+<img src="./DM기능.gif">
+
+<br/>
+
+### - 다크모드 기능
+
+<img src="./다크모드%20기능.gif">
 
 <br/>
 <br/>

@@ -117,7 +117,7 @@
 
 ##### 참고 : [Coin Simulator repository](https://github.com/kyw0716/block-chain)
 
-<img src="../kyw0716/코인%20시뮬레이터.gif"/>
+<img src="./kyw0716/코인%20시뮬레이터.gif"/>
 
 <br/>
 <br/>

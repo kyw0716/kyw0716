@@ -1,5 +1,3 @@
-<div align="center">
-
 ## It's <u>Young</u> time (´∀`)b
 
 <br/>
@@ -102,6 +100,8 @@
 
 ##### 참고 : [PlanToday repository](https://github.com/kyw0716/planToday)
 
+<br/>
+
 <img src="./오늘%20프로젝트.gif"/>
 
 <br/>
@@ -116,6 +116,8 @@
 > ##### 완료까지 걸린 시간: 3일
 
 ##### 참고 : [Coin Simulator repository](https://github.com/kyw0716/block-chain)
+
+<br/>
 
 <img src="./코인%20시뮬레이터.gif"/>
 
@@ -132,8 +134,8 @@
 
 ##### 참고 : [StopWatch + Timer](https://github.com/kyw0716/Stopwatch-online)
 
+<br/>
+
 <img src="./stopwatch1.png" width="800px" />
 <img src="./스톱워치%20기능.gif"/>
 <img src="./타이머%20기능.gif"/>
-
-</div>

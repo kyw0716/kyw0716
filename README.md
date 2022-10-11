@@ -102,7 +102,7 @@
 
 ##### 참고 : [PlanToday repository](https://github.com/kyw0716/planToday)
 
-<img src="./plan-today.png" width="500px"/>
+<img src="./오늘%20프로젝트.gif" width="500px"/>
 
 <br/>
 <br/>
@@ -117,7 +117,7 @@
 
 ##### 참고 : [Coin Simulator repository](https://github.com/kyw0716/block-chain)
 
-<img src="./block-chain.png" width="500px">
+<img src="../kyw0716/코인%20시뮬레이터.gif" width="500px">
 
 <br/>
 <br/>

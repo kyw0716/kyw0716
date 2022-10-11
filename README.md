@@ -31,7 +31,7 @@
 
 # 💻 Deploy Sites
 
-### [Youngstagram](https://youngstagram-demo.vercel.app)
+## 1. [Youngstagram](https://youngstagram-demo.vercel.app)
 
 ##### 백엔드 개발자 없이 인스타그램 웹서비스를 구현해보기 위해 시작한 프로젝트 (진행중)
 
@@ -85,8 +85,9 @@
 
 <br/>
 <br/>
+<br/>
 
-### [PlanToday](https://plan-today.netlify.app/)
+## 2. [PlanToday](https://plan-today.netlify.app/)
 
 ##### React를 사용해 실제로 사용할 수 있는 시간관리 웹앱을 만들어보기 위해 시작한 프로젝트 (완료)
 
@@ -102,8 +103,9 @@
 
 <br/>
 <br/>
+<br/>
 
-### [Coin Simulator](https://coin-mining-simulator.netlify.app/)
+## 3. [Coin Simulator](https://coin-mining-simulator.netlify.app/)
 
 ##### 코인 채굴하는 방식의 이해를 돕기 위해 간단한 코인 채굴 시뮬레이터를 만들어 보고자 시작한 프로젝트 (완료)
 
@@ -119,8 +121,9 @@
 
 <br/>
 <br/>
+<br/>
 
-### [StopWatch + Timer](https://kyw0716.github.io/Stopwatch-online/)
+## 4. [StopWatch + Timer](https://kyw0716.github.io/Stopwatch-online/)
 
 ##### 토익을 준비하던 여자친구가 온라인 스톱워치를 사용하는 것을 보고 광고 없는 스톱워치를 만들어 주고자 시작한 프로젝트 (완료)
 

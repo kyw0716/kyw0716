@@ -133,7 +133,7 @@
 ##### 참고 : [StopWatch + Timer](https://github.com/kyw0716/Stopwatch-online)
 
 <img src="./stopwatch1.png" width="400px" />
-<img src="./stopwatch2.png" width="400px" />
-<img src="./stopwatch3.png" width="400px" />
+<img src="./스톱워치%20기능.gif" width="400px" />
+<img src="./타이머%20기능.gif" width="400px" />
 
 </div>

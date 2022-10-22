@@ -7,13 +7,11 @@
 ### ✏️ https://velog.io/@kyw0716
 
 <br/>
-<br/>
 
 ## 📌 Target
 
 한 사람이라도 지속적으로 사용할 수 있는 서비스 개발을 목표로 공부중입니다!
 
-<br/>
 <br/>
 
 ## 📖 Tech Stack
@@ -34,7 +32,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyw0716)
 ![kyw0716's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyw0716&show_icons=true&theme=dracula)
 
-<br/>
 <br/>
 
 ## 💻 Deploy Sites

@@ -1,4 +1,4 @@
-# 🪄 Info
+## 🪄 Info
 
 안녕하세요, 개발로 불편함을 풀어내는 프로 불편러 개발자 김영우 입니다.
 
@@ -9,14 +9,14 @@
 <br/>
 <br/>
 
-# 📌 Target
+## 📌 Target
 
 한 사람이라도 지속적으로 사용할 수 있는 서비스 개발을 목표로 공부중입니다!
 
 <br/>
 <br/>
 
-# 📖 Tech Stack
+## 📖 Tech Stack
 
 <div style="display: flex; gap: 10px;">
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -37,9 +37,9 @@
 <br/>
 <br/>
 
-# 💻 Deploy Sites
+## 💻 Deploy Sites
 
-## 📷 Youngstagram
+### 📷 Youngstagram
 
 > 남들이 볼 수 없게 여자친구와 둘만의 시간을 기록하고자 시작한 프로젝트 (2022.07.17 ~ 진행중)
 
@@ -61,7 +61,7 @@
 
 <br/>
 
-## 📆 PlanToday
+### 📆 PlanToday
 
 > 평소 하던 하루 단위 계획법을 웹서비스로 만들어 보고자 시작한 프로젝트 (2022.05.04 ~ 2022.05.18)
 
@@ -81,7 +81,7 @@
 
 <br/>
 
-## 🪙 Coin Simulator
+### 🪙 Coin Simulator
 
 > 코인 채굴하는 방식의 이해를 돕기 위해 간단한 코인 채굴 시뮬레이터를 만들어 보고자 시작한 프로젝트 (2022.02.14 ~ 2022.02.16)
 
@@ -101,7 +101,7 @@
 
 <br/>
 
-## ⏱ Online Stopwatch
+### ⏱ Online Stopwatch
 
 > 토익을 준비하던 여자친구가 온라인 스톱워치를 사용하는 것을 보고 광고 없는 스톱워치를 만들어 주고자 시작한 프로젝트 (2022.01.26 ~ 2022.02.13)
 

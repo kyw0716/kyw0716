@@ -31,8 +31,8 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kyw0716)
 ![kyw0716's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyw0716&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kyw0716&theme=dracula&layout=compact&exclude_repo=codingTest,love-master)
 
 <br/>
 <br/>
